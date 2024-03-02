@@ -1,0 +1,17 @@
+
+.background-market{
+	width: 85.5%;
+	height: auto;
+	background-color: white;
+	margin-left: 14.5vw;
+}
+
+.wrap-chart-mt{
+	width: 100%;
+	height: 300px;
+}
+
+.chart-market{
+	width: 100%;
+	height: 300px;
+}
